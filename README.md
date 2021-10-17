@@ -1,16 +1,16 @@
-# test_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tasks
+  1. Clone this Repository : https://github.com/parmesh-signy/flutter_int_test
+  2. Open Cloned project in IDE and Run app
+  3. Create new Screen named "Employees"
+  4. Use below API to get Employees data.
+	  URL : https://api.npoint.io/bb49708e26fb07b203a2
+	  For Avtar use below URL
+	  Image URL : https://i.pravatar.cc/150?u={EMP_ID}
+  5. Show Employee list like below design.
+  	https://i.imgur.com/CmIOYko.png
+  6. In home screen's app bar there is Employees icon in last. When user press on that icon it should open this newly created screen.
+  7. Final App should look like below.
+  	https://i.imgur.com/z2k6WVL.mp4
+  8. With git create new branch with your name. 
+  	Ex. parmesh_shiroya
+  9. And push code into github.
